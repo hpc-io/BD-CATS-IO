@@ -1,6 +1,8 @@
 # BD-CATS-IO
 
-An I/O kernel for a Big Data Clustering alogirthm. 
+An I/O kernel for a Big Data Clustering alogirthm used in SC15 paper [1]. 
+
+A newer version of the I/O kernel with more access patterns has been integrated in h5bench (https://github.com/hpc-io/h5bench/). See h5bench_read.c in h5bench/h5bench_patterns/. 
 
 Citation:
 
